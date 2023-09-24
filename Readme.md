@@ -1,1 +1,1 @@
-Algoritmy 2 - Projekt
+Algoritmy 2 - Projekt Centrum grafu
